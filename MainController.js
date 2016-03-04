@@ -31,7 +31,7 @@
             }
         }
 
-        $scope.username = "robi-y";
+        $scope.username = "hosamkh";
         $scope.countdown = 10;
         startCountdown();
     };
